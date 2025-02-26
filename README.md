@@ -28,7 +28,7 @@ ShopEasy, an online retail business, is experiencing reduced customer engagement
 
 ## Goals & Action Plan
 
-![ShopEasy Logo](https://github.com/abhay01kg/Marketing_Analytics_Business_Case/blob/main/path_to_your_image.png)
+![ShopEasy Logo](https://github.com/abhay01kg/Marketing_Analytics_Business_Case/blob/main/image001.png)
 ### 1. Increase Conversion Rates
 - Identify drop-off points in the conversion funnel.
 - Focus marketing efforts on high-performing product categories (e.g., **Kayaks, Ski Boots, Baseball Gloves**).
